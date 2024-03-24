@@ -1,2 +1,3 @@
-# rubberSearch
-Created with ❤️ in Qatar University
+# 🚀 **rubberSearch**
+
+*Unlock Lightning Fast Searches with Parallel Processing!*
